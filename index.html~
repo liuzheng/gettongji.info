@@ -441,13 +441,13 @@ window.location.href=link[id];
     linkArray.push('http://risedr.tongji.edu.cn/');
     linkName.push('同济大学结构工程与防灾研究所网站');
     linkImg.push('');
-    linkStyle.push('<span class="circle mshake xsmall" style="background-color:#9B9FBA">');
+    linkStyle.push('');
     linkKeywords.push(''); 
 
     linkArray.push('http://sem.tongji.edu.cn/');
     linkName.push('同济大学经济与管理学院');
     linkImg.push('');
-    linkStyle.push('<span class="circle  xsmall" style="background-color:#DEB0B0">');
+    linkStyle.push('');
     linkKeywords.push(''); 
 
     linkArray.push('http://tongji-case.tongji.edu.cn/');
