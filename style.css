@@ -547,8 +547,8 @@ a:hover{
 #header .sub-menu,
 #header .menu{
     background: white;
-    border: 1px solid #e2e4e3;
-    border-radius: 8px;
+    border: 2px solid #e2e4e3;
+    border-radius: 16px;
     float: left;
 display: inline;
 margin-left: 30px;
@@ -611,8 +611,8 @@ opacity: .65;
 
 #header .sub-menu {
 position: absolute;
-left: -76px;
-top: 53px;
+left: -145px;
+top: 45px;
 margin-top: 0;
 /*border-top-right-radius: 0;*/
 z-index: 9999;
