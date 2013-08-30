@@ -534,6 +534,7 @@ a:hover{
 
 #header nav{
     float: right;
+    height:10px;
 }
 
 #header ul,
@@ -611,7 +612,7 @@ opacity: .65;
 
 #header .sub-menu {
 position: absolute;
-left: -145px;
+left: -150px;
 top: 45px;
 margin-top: 0;
 /*border-top-right-radius: 0;*/
@@ -964,7 +965,7 @@ h1.huge{
 
 
 #header h1{
-    float: left;
+    float: right;
     width: auto;
 }
 
