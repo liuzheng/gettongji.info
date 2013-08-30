@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lekton'), local('Lekton-Regular'), url(http://gettongji.info/fonts/Gv78TXgMRvGbTrqT_eA_TQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lekton';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lekton-Bold'), url(http://gettongji.info/fonts/sElR8eSezhQZgOuqD3W75T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lekton';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lekton-Italic'), url(http://gettongji.info/fonts/EtzfH_BL45nRIPQJcfvgu_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://gettongji.info/fonts/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://gettongji.info/fonts/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://gettongji.info/fonts/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
