@@ -1,0 +1,4 @@
+﻿[remote "all"]
+	url = git@github.com:liuzheng712/gettongji.info.git
+	url = git@gitcafe.com:liuzheng712/liuzheng712.git
+	url = git@bitbucket.org:liuzheng712/liuzheng712.bitbucket.org.git
